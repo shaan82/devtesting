@@ -17,5 +17,4 @@ The object of this test is to check your skills with different products that we 
 10.  Build a route / contoller and repository methods to perform CRUD on above 2 tables using Backbone Views / Models 
 11.  Commit the working code in a branch called Backbone-Test. Submit it for pull request to Development branch as well.
 12.  Be prepared for someone to teamviewer on to check your working product.
-
-
+committing on local
